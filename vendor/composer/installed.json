@@ -2585,12 +2585,12 @@
     },
     {
         "name": "magento/ece-tools",
-        "version": "2002.1.13",
-        "version_normalized": "2002.1.13.0",
+        "version": "2002.1.14",
+        "version_normalized": "2002.1.14.0",
         "dist": {
             "type": "zip",
-            "url": "https://repo.magento.com/archives/magento/ece-tools/magento-ece-tools-2002.1.13.0.zip",
-            "shasum": "a7fd2f20339eece5aff501f96527e3e18a267c20"
+            "url": "https://repo.magento.com/archives/magento/ece-tools/magento-ece-tools-2002.1.14.0.zip",
+            "shasum": "043e19d50e28122851331e64a3ac9a076eee113d"
         },
         "require": {
             "colinmollenhour/credis": "^1.6.0",

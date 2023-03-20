@@ -82,7 +82,7 @@ final class Versions
   'klarna/module-ordermanagement' => '5.0.7@',
   'magento/adobe-stock-integration' => '1.0.0@',
   'magento/composer' => '1.5.1@',
-  'magento/ece-tools' => '2002.1.13@',
+  'magento/ece-tools' => '2002.1.14@',
   'magento/framework' => '102.0.4-p2@',
   'magento/framework-amqp' => '100.3.4@',
   'magento/framework-bulk' => '100.3.4@',
